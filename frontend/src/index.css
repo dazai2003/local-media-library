@@ -470,6 +470,8 @@ header p {
 
 .modal-poster {
   width: 220px;
+  align-self: flex-start;
+  object-fit: cover;
   border-radius: 12px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.7);
   border: 2px solid rgba(201, 168, 76, 0.2);
